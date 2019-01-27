@@ -1,0 +1,13 @@
+C:\Users\VIRGINIA SAUCEDO\source\repos\EscalonadorTest\EscalonadorTest\bin\Debug\EscalonadorTest.exe.config
+C:\Users\VIRGINIA SAUCEDO\source\repos\EscalonadorTest\EscalonadorTest\bin\Debug\EscalonadorTest.exe
+C:\Users\VIRGINIA SAUCEDO\source\repos\EscalonadorTest\EscalonadorTest\bin\Debug\EscalonadorTest.pdb
+C:\Users\VIRGINIA SAUCEDO\source\repos\EscalonadorTest\EscalonadorTest\obj\Debug\EscalonadorTest.csproj.CoreCompileInputs.cache
+C:\Users\VIRGINIA SAUCEDO\source\repos\EscalonadorTest\EscalonadorTest\obj\Debug\EscalonadorTest.exe
+C:\Users\VIRGINIA SAUCEDO\source\repos\EscalonadorTest\EscalonadorTest\obj\Debug\EscalonadorTest.pdb
+C:\Users\VIRGINIA SAUCEDO\source\repos\EscalonadorTest\EscalonadorTest\obj\Debug\EscalonadorTest.csprojAssemblyReference.cache
+C:\Users\VIRGINIA SAUCEDO\OneDrive - ifsp.edu.br\Faculdade\IFSP\PERÍODO\06 - SEXTO SEMESTRE\SISTEMAS OPERACIONAIS\Artigo\EscalonadorTest\EscalonadorTest\bin\Debug\EscalonadorTest.exe.config
+C:\Users\VIRGINIA SAUCEDO\OneDrive - ifsp.edu.br\Faculdade\IFSP\PERÍODO\06 - SEXTO SEMESTRE\SISTEMAS OPERACIONAIS\Artigo\EscalonadorTest\EscalonadorTest\bin\Debug\EscalonadorTest.exe
+C:\Users\VIRGINIA SAUCEDO\OneDrive - ifsp.edu.br\Faculdade\IFSP\PERÍODO\06 - SEXTO SEMESTRE\SISTEMAS OPERACIONAIS\Artigo\EscalonadorTest\EscalonadorTest\bin\Debug\EscalonadorTest.pdb
+C:\Users\VIRGINIA SAUCEDO\OneDrive - ifsp.edu.br\Faculdade\IFSP\PERÍODO\06 - SEXTO SEMESTRE\SISTEMAS OPERACIONAIS\Artigo\EscalonadorTest\EscalonadorTest\obj\Debug\EscalonadorTest.csproj.CoreCompileInputs.cache
+C:\Users\VIRGINIA SAUCEDO\OneDrive - ifsp.edu.br\Faculdade\IFSP\PERÍODO\06 - SEXTO SEMESTRE\SISTEMAS OPERACIONAIS\Artigo\EscalonadorTest\EscalonadorTest\obj\Debug\EscalonadorTest.exe
+C:\Users\VIRGINIA SAUCEDO\OneDrive - ifsp.edu.br\Faculdade\IFSP\PERÍODO\06 - SEXTO SEMESTRE\SISTEMAS OPERACIONAIS\Artigo\EscalonadorTest\EscalonadorTest\obj\Debug\EscalonadorTest.pdb
